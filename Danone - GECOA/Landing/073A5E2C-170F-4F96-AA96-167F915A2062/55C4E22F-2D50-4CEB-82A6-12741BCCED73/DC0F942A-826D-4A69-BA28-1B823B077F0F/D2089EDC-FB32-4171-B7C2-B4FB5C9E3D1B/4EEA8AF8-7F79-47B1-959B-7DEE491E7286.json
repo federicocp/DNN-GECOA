@@ -14,8 +14,8 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 162,
-    "width": 184,
-    "x": 214,
+    "width": 206,
+    "x": 235,
     "y": 0
   },
   "horizontalSpacing": 0,
@@ -32,7 +32,11 @@
   "nameIsFixed": false,
   "originalObjectID": "5A4BCF21-400E-4C04-8D62-95EF4987783F",
   "overrides": {
-    "428F5E17-FEC0-4C61-A6A7-5E554AB19C32": "Tecnología"
+    "0AF79A2F-884A-476C-89FC-D4A691D18EAD": {
+      "8B1AE573-82BF-42E3-A929-FC16E0417F91": "Exploralas"
+    },
+    "428F5E17-FEC0-4C61-A6A7-5E554AB19C32": "Tecnología",
+    "AD639A18-B125-429A-9928-390C8566EF5C": "Existen diversas opciones tecnológicas disponibles para solucionar\nproblemas de acceso a agua y saneamiento en comunidades vulnerables."
   },
   "resizingConstraint": 63,
   "resizingType": 0,

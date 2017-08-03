@@ -23,7 +23,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "shapeGroup",
@@ -38,7 +38,7 @@
       "id": "41D6D0F6-62E7-4449-BB64-BCE37D623656"
     }
   ],
-  "name": "Herramientas",
+  "name": "CTAs",
   "nameIsFixed": true,
   "resizingConstraint": 26,
   "resizingType": 0,

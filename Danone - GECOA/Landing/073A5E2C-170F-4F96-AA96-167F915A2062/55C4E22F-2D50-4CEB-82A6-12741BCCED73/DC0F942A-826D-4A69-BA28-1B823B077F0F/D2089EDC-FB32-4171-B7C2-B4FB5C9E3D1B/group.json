@@ -14,9 +14,9 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 162,
-    "width": 826,
-    "x": 67,
-    "y": 81
+    "width": 911,
+    "x": 25,
+    "y": 82
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
@@ -61,7 +61,7 @@
         "constraints": {
           "automatic": 1,
           "centerHorizontally": {
-            "constant": 0,
+            "constant": 0.5,
             "enabled": 1,
             "modelID": "constraint_42b6136a-a2cb-404d-b579-45e09044ab62",
             "model_class": "ADModelConstraint",

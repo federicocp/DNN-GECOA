@@ -14,7 +14,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 162,
-    "width": 184,
+    "width": 205,
     "x": 0,
     "y": 0
   },
@@ -32,7 +32,11 @@
   "nameIsFixed": false,
   "originalObjectID": "5A4BCF21-400E-4C04-8D62-95EF4987783F",
   "overrides": {
-    "428F5E17-FEC0-4C61-A6A7-5E554AB19C32": "Experiencias"
+    "0AF79A2F-884A-476C-89FC-D4A691D18EAD": {
+      "8B1AE573-82BF-42E3-A929-FC16E0417F91": "Conocelas"
+    },
+    "428F5E17-FEC0-4C61-A6A7-5E554AB19C32": "Experiencias",
+    "AD639A18-B125-429A-9928-390C8566EF5C": "Numerosas organizaciones públicas y privadas en argentina implementan diversos modelos de gestión disponibles para solucionar problemas de agua."
   },
   "resizingConstraint": 63,
   "resizingType": 0,
