@@ -13,10 +13,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 55,
-    "width": 452,
+    "height": 37,
+    "width": 156,
     "x": 2,
-    "y": 56
+    "y": 60
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
@@ -40,22 +40,6 @@
     {
       "class": "symbolInstance",
       "id": "67BD37DD-FB21-4C3B-B678-57FD4AE7B8ED"
-    },
-    {
-      "class": "text",
-      "id": "ECF18730-EB3F-4DA4-889F-6143956BB754"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "98D4C9EC-0A53-4FF0-9542-1E3BA96D39B5"
-    },
-    {
-      "class": "text",
-      "id": "45C15989-1A51-46C6-807C-A9715EA5F4C2"
-    },
-    {
-      "class": "text",
-      "id": "644413E2-EE48-4370-B58D-358D2DA51643"
     }
   ],
   "name": "Group 6",
