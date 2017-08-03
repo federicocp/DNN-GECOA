@@ -7,7 +7,7 @@
     }
   },
   "automaticallyDrawOnUnderlyingPath": false,
-  "do_objectID": "B48F8C68-CCD1-4559-B2A2-5052C35A9008",
+  "do_objectID": "AD639A18-B125-429A-9928-390C8566EF5C",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -36,6 +36,7 @@
   "lineSpacingBehaviour": 2,
   "name": "Descripcion",
   "nameIsFixed": true,
+  "originalObjectID": "AD639A18-B125-429A-9928-390C8566EF5C",
   "resizingConstraint": 26,
   "resizingType": 0,
   "rotation": 0,
@@ -47,37 +48,6 @@
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
-        "constraints": {
-          "automatic": 1,
-          "left": {
-            "constant": 2,
-            "enabled": 1,
-            "modelID": "constraint_d1360b91-875c-478d-884c-c2fbb310da8b",
-            "model_class": "ADModelConstraint",
-            "model_version": 0.1,
-            "multiplier": 0
-          },
-          "modelID": "viewConstraints_b863dad7-45a8-4a75-a7b1-6fb651ee1346",
-          "model_class": "ADModelViewConstraints",
-          "model_version": 0.1,
-          "right": {
-            "constant": 2,
-            "enabled": 1,
-            "modelID": "constraint_060ca473-ff56-4eec-987e-ebbdebd237ce",
-            "model_class": "ADModelConstraint",
-            "model_version": 0.1,
-            "multiplier": 0
-          },
-          "scaleFactor": 1,
-          "top": {
-            "constant": 37,
-            "enabled": 1,
-            "modelID": "constraint_8c712d84-4371-4efb-a4e2-147aafa45cb0",
-            "model_class": "ADModelConstraint",
-            "model_version": 0.1,
-            "multiplier": 0
-          }
-        },
         "isAutoWidth": 0
       }
     },

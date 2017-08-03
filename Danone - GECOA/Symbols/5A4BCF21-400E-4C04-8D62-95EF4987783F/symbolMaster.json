@@ -1,5 +1,5 @@
 {
-  "_class": "artboard",
+  "_class": "symbolMaster",
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
@@ -7,7 +7,8 @@
     "green": 1,
     "red": 1
   },
-  "do_objectID": "DC1801C4-677F-487D-8882-C4CA3C0FB740",
+  "changeIdentifier": 153,
+  "do_objectID": "5A4BCF21-400E-4C04-8D62-95EF4987783F",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -20,10 +21,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 178,
-    "width": 122,
-    "x": -144,
-    "y": 225
+    "height": 162,
+    "width": 184,
+    "x": 3146,
+    "y": -1132
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -34,6 +35,7 @@
     ]
   },
   "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
   "includeInCloudUpload": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -43,11 +45,24 @@
   "layers": [
     {
       "class": "symbolInstance",
-      "id": "80E87193-0C1F-4D07-8021-8B7A6B6B457B"
+      "id": "0AF79A2F-884A-476C-89FC-D4A691D18EAD"
+    },
+    {
+      "class": "text",
+      "id": "AD639A18-B125-429A-9928-390C8566EF5C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "199580A5-8D56-4D99-92DF-6143AEF16319"
+    },
+    {
+      "class": "text",
+      "id": "428F5E17-FEC0-4C61-A6A7-5E554AB19C32"
     }
   ],
-  "name": "BA Rollover",
-  "nameIsFixed": true,
+  "name": "Content/Landing/CTAs",
+  "nameIsFixed": false,
+  "originalObjectID": "5A4BCF21-400E-4C04-8D62-95EF4987783F",
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -59,6 +74,7 @@
     "miterLimit": 10,
     "startDecorationType": 0
   },
+  "symbolID": "290AF17A-F6F7-4823-A6D7-AC83D2E9A9AA",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

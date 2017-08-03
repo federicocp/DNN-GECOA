@@ -34,6 +34,7 @@
   ],
   "name": "Line",
   "nameIsFixed": false,
+  "originalObjectID": "199580A5-8D56-4D99-92DF-6143AEF16319",
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -89,29 +90,6 @@
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
-        "constraints": {
-          "automatic": 1,
-          "left": {
-            "constant": 0,
-            "enabled": 1,
-            "modelID": "constraint_6ea63c8c-0d1f-4aa7-9449-6cd09483ba1b",
-            "model_class": "ADModelConstraint",
-            "model_version": 0.1,
-            "multiplier": 0
-          },
-          "modelID": "viewConstraints_8390330c-495b-488f-98bd-6932a8ba4a27",
-          "model_class": "ADModelViewConstraints",
-          "model_version": 0.1,
-          "right": {
-            "constant": 0,
-            "enabled": 1,
-            "modelID": "constraint_cfbda350-2334-4af5-8683-08f7e0b8af18",
-            "model_class": "ADModelConstraint",
-            "model_version": 0.1,
-            "multiplier": 0
-          },
-          "scaleFactor": 1
-        }
       }
     }
   },

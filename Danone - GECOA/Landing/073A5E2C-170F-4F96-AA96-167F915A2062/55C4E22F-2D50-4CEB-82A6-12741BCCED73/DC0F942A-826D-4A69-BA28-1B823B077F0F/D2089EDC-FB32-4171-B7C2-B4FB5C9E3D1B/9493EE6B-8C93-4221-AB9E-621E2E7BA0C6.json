@@ -1,6 +1,6 @@
 {
-  "_class": "group",
-  "do_objectID": "8EE7E174-420F-4946-B986-4CD7C3B431CC",
+  "_class": "symbolInstance",
+  "do_objectID": "9493EE6B-8C93-4221-AB9E-621E2E7BA0C6",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -13,30 +13,27 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 15,
-    "width": 78,
+    "height": 162,
+    "width": 184,
     "x": 0,
-    "y": 20
+    "y": 0
   },
-  "hasClickThrough": false,
+  "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "layers": [
-    {
-      "class": "text",
-      "id": "FAFB64BF-BB29-4649-B863-6FF5165620AA"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "6ED162F1-BFD9-4A92-A9B0-A2F3F3225C22"
-    }
-  ],
-  "name": "Group 2",
+  "masterInfluenceEdgeMaxXPadding": 1,
+  "masterInfluenceEdgeMaxYPadding": 1,
+  "masterInfluenceEdgeMinXPadding": 1,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "Content/Landing/CTAs",
   "nameIsFixed": false,
-  "originalObjectID": "9745D27C-7CC5-4EDF-8B8D-F4AC21E5D2F8",
+  "originalObjectID": "5A4BCF21-400E-4C04-8D62-95EF4987783F",
+  "overrides": {
+    "428F5E17-FEC0-4C61-A6A7-5E554AB19C32": "Experiencias"
+  },
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -47,10 +44,12 @@
     "miterLimit": 10,
     "startDecorationType": 0
   },
+  "symbolID": "290AF17A-F6F7-4823-A6D7-AC83D2E9A9AA",
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
       }
     }
-  }
+  },
+  "verticalSpacing": 0
 }
