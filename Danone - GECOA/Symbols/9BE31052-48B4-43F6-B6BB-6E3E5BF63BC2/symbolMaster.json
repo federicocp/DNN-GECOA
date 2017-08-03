@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 1456,
+  "changeIdentifier": 1459,
   "do_objectID": "9BE31052-48B4-43F6-B6BB-6E3E5BF63BC2",
   "exportOptions": {
     "_class": "exportOptions",
@@ -54,7 +54,7 @@
   ],
   "name": "Icons/Document",
   "nameIsFixed": true,
-  "originalObjectID": "F53ED3D2-4B40-4120-A002-BA9442C6665D",
+  "originalObjectID": "9BE31052-48B4-43F6-B6BB-6E3E5BF63BC2",
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

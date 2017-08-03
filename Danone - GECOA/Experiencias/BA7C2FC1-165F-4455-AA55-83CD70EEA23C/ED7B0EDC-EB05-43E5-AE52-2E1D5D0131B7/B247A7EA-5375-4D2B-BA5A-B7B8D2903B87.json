@@ -1,6 +1,6 @@
 {
   "_class": "symbolInstance",
-  "do_objectID": "D782FAD9-8B13-4A1A-9FE7-72EDF8A50DA7",
+  "do_objectID": "B247A7EA-5375-4D2B-BA5A-B7B8D2903B87",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -14,9 +14,9 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 40,
-    "width": 195,
-    "x": 378,
-    "y": 43
+    "width": 141,
+    "x": 213,
+    "y": 0
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -28,11 +28,11 @@
   "masterInfluenceEdgeMaxYPadding": 0,
   "masterInfluenceEdgeMinXPadding": 0,
   "masterInfluenceEdgeMinYPadding": 0,
-  "name": "Controls/Button Dropdown Copy",
+  "name": "Controls/Button Dropdown",
   "nameIsFixed": false,
   "originalObjectID": "48FC8EED-EFD9-4468-B606-E8A4142CD34B",
   "overrides": {
-    "A480B791-3895-40BC-8254-55BB793C0A24": "Tipo de Organización"
+    "A480B791-3895-40BC-8254-55BB793C0A24": "Saneamiento"
   },
   "resizingConstraint": 63,
   "resizingType": 0,
