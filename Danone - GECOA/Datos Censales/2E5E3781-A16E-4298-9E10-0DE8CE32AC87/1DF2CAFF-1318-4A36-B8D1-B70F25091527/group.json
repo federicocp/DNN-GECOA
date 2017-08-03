@@ -1,0 +1,82 @@
+{
+  "_class": "group",
+  "do_objectID": "1DF2CAFF-1318-4A36-B8D1-B70F25091527",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 172,
+    "width": 900,
+    "x": 30,
+    "y": 1904
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "33B92594-75D7-4552-91D2-B9AB94ACAE00"
+    },
+    {
+      "class": "text",
+      "id": "285FCB65-4FCA-48C4-ACA8-E0028A7770D8"
+    },
+    {
+      "class": "text",
+      "id": "91D9660E-023C-425A-A980-0A6E1133F7EE"
+    },
+    {
+      "class": "text",
+      "id": "937CC016-75EB-4296-BC21-803CC426DA15"
+    },
+    {
+      "class": "text",
+      "id": "13A472E3-410C-4E76-BBF7-560FD9645471"
+    },
+    {
+      "class": "text",
+      "id": "9875FA0C-8FF1-4FF8-88D3-23CA1D05388B"
+    },
+    {
+      "class": "text",
+      "id": "A1C795AD-C06C-4082-97C2-3D68DC60F538"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "202B8D3F-608A-416B-894B-C7D5857303B0"
+    }
+  ],
+  "name": "Anexos",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    },
+    "com.invisionlabs.data": {
+      "json-plugin-data": "{\"name\":\"http:\\/\\/gecoa.getsandbox.com\\/experiencias\",\"paths\":[],\"path\":\"B877D86E-3B95-4583-AA78-E587FD4DDF1B.json\"}"
+    }
+  }
+}

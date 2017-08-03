@@ -1,0 +1,105 @@
+{
+  "_class": "page",
+  "do_objectID": "706727BF-6E80-4E70-A5D0-E44D11776621",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 300,
+    "width": 300,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "artboard",
+      "id": "2E5E3781-A16E-4298-9E10-0DE8CE32AC87"
+    },
+    {
+      "class": "artboard",
+      "id": "F566DB9F-FDBB-4A71-B6D0-66510A307879"
+    },
+    {
+      "class": "artboard",
+      "id": "95BBB19E-340A-43C3-A573-7117E18724D7"
+    },
+    {
+      "class": "artboard",
+      "id": "06ACFCF7-4521-4721-813C-491CC902001B"
+    },
+    {
+      "class": "artboard",
+      "id": "C4E7177B-3AA5-4C69-AFFA-CA6D9A523CD9"
+    },
+    {
+      "class": "artboard",
+      "id": "94FE0077-4EE4-495E-B220-AA45E7A76BB7"
+    },
+    {
+      "class": "artboard",
+      "id": "9A66E308-EFC6-4192-B9A1-7EF7CA742159"
+    },
+    {
+      "class": "artboard",
+      "id": "B24C5323-4C7C-4689-B221-704633555713"
+    },
+    {
+      "class": "artboard",
+      "id": "19A05A96-B0F8-491B-8E97-B3F1E4F668F7"
+    },
+    {
+      "class": "artboard",
+      "id": "AF6BF75C-27DB-4795-A930-10DEC340F5DF"
+    }
+  ],
+  "name": "Datos Censales",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "com.animaapp.animaPageID": "27C35AF1-485A-495F-BB16-ADF9651C6232"
+    },
+    "com.invision.prototype": {
+      "lastUsedGestureID": 0
+    },
+    "com.invisionlabs.data": {
+      "json-files": "[{\"path\":\"B877D86E-3B95-4583-AA78-E587FD4DDF1B.json\",\"name\":\"http:\\/\\/gecoa.getsandbox.com\\/experiencias\",\"hash\":\"f457d117ad0bde351b3315ab8bfb4a53170a64f2\"},{\"path\":\"96DEB56D-D296-4FD8-89C9-BAE0126117C7.json\",\"name\":\"https:\\/\\/gecoa.getsandbox.com\\/experiencias\\/chaco\",\"hash\":\"2e52728c0bbe669f879c805e2f0eb6e2229065b1\"}]"
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

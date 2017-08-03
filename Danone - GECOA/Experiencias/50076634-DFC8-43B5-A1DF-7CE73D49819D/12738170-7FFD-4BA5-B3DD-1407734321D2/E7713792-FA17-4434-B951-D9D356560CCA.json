@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "E7713792-FA17-4434-B951-D9D356560CCA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 173,
+    "width": 900,
+    "x": 0,
+    "y": 605
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 1,
+  "masterInfluenceEdgeMaxYPadding": 1,
+  "masterInfluenceEdgeMinXPadding": 1,
+  "masterInfluenceEdgeMinYPadding": 1,
+  "name": "Aprendizae",
+  "nameIsFixed": true,
+  "originalObjectID": "4BDD9308-DA6A-4808-B331-C8DF2AEF5129",
+  "overrides": {
+    "6D46120D-BA22-499E-B39F-5087595D0F18": "* Remoción de buques hundidos \r* Tareas de limpieza de márgenes y de basura del interior del espejo de agua\r* Se cuenta con una red de estaciones de monitoreo de calidad de agua superficial (4 de ellas de medición continua)\r* Se realizaron 70 perforaciones para evaluar la calidad del agua subterránea",
+    "A61C4260-3627-424D-93E3-FAF54ADA5A35": "Aprendizaje"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "D0E9DA51-85AD-40FC-8898-FAB22BBAAEF4",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

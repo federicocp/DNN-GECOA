@@ -1,0 +1,114 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "changeIdentifier": 1111,
+  "do_objectID": "02A20015-3B39-4D13-87FA-6218200ECAA1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 130,
+    "width": 184,
+    "x": 2116,
+    "y": -607
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "344A593D-570B-4683-BB8C-5807B38774D3"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E054A46A-2335-4A07-8F36-2A5CD260E03A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "71800E9A-FDCF-4114-AE24-2491211A0ED1"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "8429464E-6392-483A-8A3F-AA88A3994F38"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "5FC3DAE1-C387-43E9-A6E5-CAEB769D1FD8"
+    },
+    {
+      "class": "text",
+      "id": "BA0362A1-CD26-4621-B0BE-396B842ED5DC"
+    },
+    {
+      "class": "text",
+      "id": "30A8C2FD-148E-4D9A-9BE8-9973B8650D11"
+    },
+    {
+      "class": "text",
+      "id": "06E6DE5A-C5BB-4153-9D34-2F79F09AF2A9"
+    },
+    {
+      "class": "text",
+      "id": "82EB61EA-C8C7-4F5D-BA76-0EA7B1EA792A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "3E4B40CE-5AED-4BF7-908A-6F58C50E7BB0"
+    }
+  ],
+  "name": "Graph/Barra Distributiva",
+  "nameIsFixed": false,
+  "originalObjectID": "02A20015-3B39-4D13-87FA-6218200ECAA1",
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "06B7A01B-DE8D-41C1-AF25-1C1BAC7B009B",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

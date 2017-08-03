@@ -1,0 +1,63 @@
+{
+  "_class": "group",
+  "do_objectID": "1094AFF3-CD7C-4D9A-B6CF-C3E73D326726",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 190,
+    "width": 900,
+    "x": 0,
+    "y": 1103
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "E7B4AED5-D000-4FB7-9CE1-59D31C7649C1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A3C6ECAF-91FE-41FC-B709-287BF5491C6E"
+    },
+    {
+      "class": "text",
+      "id": "F719CBB2-6B5E-45B5-B33B-461931E2270D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "EF087E58-9A87-4F2D-9A79-D4503C7C5BA5"
+    }
+  ],
+  "name": "Entidad Lider",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

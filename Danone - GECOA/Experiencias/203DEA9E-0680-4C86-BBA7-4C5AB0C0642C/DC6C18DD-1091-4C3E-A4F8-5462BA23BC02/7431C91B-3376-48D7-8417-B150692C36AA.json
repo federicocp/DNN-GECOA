@@ -1,0 +1,74 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "7431C91B-3376-48D7-8417-B150692C36AA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1632,
+    "width": 900,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 1,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "Layout/Sheet",
+  "nameIsFixed": false,
+  "originalObjectID": "C6FFD5E2-8087-4A0A-906A-0B5D9B20F9C1",
+  "overrides": {
+    "6ACACEB2-7F8D-4879-9C0D-C01E5F3EB6A7": {
+      "BFC4701D-81B4-4E3F-8326-3BE71BD5F97C": {
+        "symbolID": "68859BDF-63BB-4DAF-8A29-E29839F3C5BC"
+      }
+    },
+    "A7DE0549-0B02-4B0F-9D27-5ED8D2BFA2AF": "Experiencias"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "62EFAF41-F726-45B2-9BAD-71C8EAA46364",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "actions": [
+          {
+            "animation": 0,
+            "customAnimationId": "",
+            "delayFromTrigger": 0,
+            "modelID": "OpenScreen_d2581e11-d5a2-469a-b2d6-fcf2941847f9",
+            "model_class": "ADModelActionPresentScreen",
+            "model_version": 0.1,
+            "name": "untitled",
+            "presentationType": 2,
+            "screenId": "68E110BD-B504-487F-896E-C572C6507DFF",
+            "trigger": 4
+          }
+        ]
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

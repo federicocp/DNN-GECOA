@@ -1,0 +1,59 @@
+{
+  "_class": "group",
+  "do_objectID": "B65E0DA7-D836-45BB-9C05-B279E8D0F4A4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 35,
+    "width": 898,
+    "x": 1,
+    "y": 249
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "3EBB44B1-4A86-4E87-8B95-F7830AF6089A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CC2E2CF1-6A08-47D8-847F-42847E2DD07C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "44E09A02-D47E-4DEC-8A41-AD85D070146C"
+    }
+  ],
+  "name": "Tab Bar",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

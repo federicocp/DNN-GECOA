@@ -1,0 +1,78 @@
+{
+  "_class": "group",
+  "do_objectID": "5F2E93D1-4C74-464C-AA7D-0D33FD65A752",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 162,
+    "width": 184,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "074B5C83-703B-4640-86D5-EB19DF7F14CD"
+    },
+    {
+      "class": "text",
+      "id": "17D3208A-12DA-40A5-AC23-3684492B933E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B5A2E173-028B-436A-96B7-9E98EA998DD8"
+    },
+    {
+      "class": "text",
+      "id": "CA4DA599-0669-4DE1-85B7-CBAC5FD4CAC1"
+    }
+  ],
+  "name": "Group",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "actions": [
+          {
+            "animation": 0,
+            "customAnimationId": "",
+            "customURL": "https://launchpad.animaapp.com/gecoa/experiencias",
+            "delayFromTrigger": 0,
+            "modelID": "OpenScreen_cbbb2c49-9427-4cce-b12a-b219a0994af6",
+            "model_class": "ADModelActionPresentScreen",
+            "model_version": 0.1,
+            "name": "untitled",
+            "presentationType": 2,
+            "screenId": "",
+            "trigger": 4
+          }
+        ]
+      }
+    }
+  }
+}

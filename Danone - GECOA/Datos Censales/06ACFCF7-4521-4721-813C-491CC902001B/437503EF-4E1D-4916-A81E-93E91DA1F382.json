@@ -1,0 +1,60 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "437503EF-4E1D-4916-A81E-93E91DA1F382",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 199,
+    "width": 126,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 1,
+  "name": "Dropdowns/Provincias",
+  "nameIsFixed": false,
+  "originalObjectID": "56B40FCC-B76C-483E-A106-3136591FC1A0",
+  "overrides": {
+    "0C21E5CD-89C8-4613-80EC-094939C29973": {
+      "symbolID": "94BF2B6E-D6D5-484F-8DF6-05863CE9A3AD"
+    },
+    "131B4C10-0ABB-4802-A145-DDB16B95A8AF": {
+      "symbolID": "58F603A8-BD8C-4954-8AE4-0A1A81001885"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "6B89FC38-32C8-4BC3-AA90-D86CC438E753",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

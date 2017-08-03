@@ -1,0 +1,94 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "44726D5F-5AC7-4717-81AC-9297E8687640",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 74,
+    "width": 88,
+    "x": 90,
+    "y": 724
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "C85C0AE9-75F5-41DA-B993-C90D52DC36BF"
+    },
+    {
+      "class": "shapePath",
+      "id": "7D5B4505-9882-40C4-8E2A-0AFA2B8DBBA0"
+    },
+    {
+      "class": "shapePath",
+      "id": "D4B05C4F-5A9E-4D9C-A55F-3E50BD7A556F"
+    }
+  ],
+  "name": "Stroke 6",
+  "nameIsFixed": false,
+  "originalObjectID": "44726D5F-5AC7-4717-81AC-9297E8687640",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": false,
+      "lineCapStyle": 1,
+      "lineJoinStyle": 1
+    },
+    "borders": [
+      {
+        "_class": "border",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.979065477848053,
+          "green": 0.9837446808815002,
+          "red": 0.986592710018158
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "position": 0,
+        "thickness": 0.25
+      }
+    ],
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    },
+    "com.facebook.sketchplugins": {
+      "FBLayerMetadata": {
+        "FBSemaphore": {
+          "objectID": "16319D32-9782-4C06-A735-7069848F05CE"
+        }
+      }
+    }
+  },
+  "windingRule": 1
+}

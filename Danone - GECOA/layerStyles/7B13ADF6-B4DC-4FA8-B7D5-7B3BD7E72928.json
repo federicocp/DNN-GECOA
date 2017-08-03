@@ -1,0 +1,30 @@
+{
+  "_class": "sharedStyle",
+  "do_objectID": "7B13ADF6-B4DC-4FA8-B7D5-7B3BD7E72928",
+  "name": "State/Disabled",
+  "value": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.8360969387755102,
+          "green": 0.8360969387755102,
+          "red": 0.8360969387755102
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "sharedObjectID": "7B13ADF6-B4DC-4FA8-B7D5-7B3BD7E72928",
+    "startDecorationType": 0
+  }
+}

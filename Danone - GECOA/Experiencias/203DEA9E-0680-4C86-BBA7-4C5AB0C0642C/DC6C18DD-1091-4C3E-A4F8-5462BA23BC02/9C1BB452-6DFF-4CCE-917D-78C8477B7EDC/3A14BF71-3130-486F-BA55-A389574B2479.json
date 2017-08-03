@@ -1,0 +1,89 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGOjtYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QDwcIDxAYGR0lJicoKTA0NlUkbnVsbNMJCgsMDQ5YTlNTdHJpbmdWJGNsYXNzXE5TQXR0cmlidXRlc4ACgA6AA28QtQBDAGEAZABhACAAdQBuAGEAIABkAGUAIABsAGEAcwAgAGwA7QBuAGUAYQBzACAAZABlACAAYQBjAGMAaQDzAG4AIABzAG8AbgAgAGQAZQBzAGEAcgByAG8AbABsAGEAZABhAHMAIAB5ACAAYwBvAG4AYwBlAHAAdAB1AGEAbABpAHoAYQBkAGEAcwAsACAAZABpAHMAdABpAG4AZwB1AGkAZQBuAGQAbwAgAEYASQBOAEEATABJAEQAQQBEACwAIABQAFIATwBQANMAUwBJAFQATwAsACAATwBCAEoARQBUAEkAVgBPAFMAIABPAFAARQBSAEEAVABJAFYATwBTACwAIABDAE8ATQBQAE8ATgBFAE4AVABFAFMALAAgAEMAUgBPAE4ATwBHAFIAQQBNAEEAUwAgAHkAIABQAFIARQBTAFUAUABVAEUAUwBUAE8AUwAgAEQARQAgAEUASgBFAEMAVQBDAEkA0wBO0xESChMVF1dOUy5rZXlzWk5TLm9iamVjdHOhFIAEoRaABYANXxAfTVNBdHRyaWJ1dGVkU3RyaW5nRm9udEF0dHJpYnV0ZdIKGhscXxAaTlNGb250RGVzY3JpcHRvckF0dHJpYnV0ZXOADIAG0xESCh4hJKIfIIAHgAiiIiOACYAKgAtfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNAKAAAAAAAAFlIZWx2ZXRpY2HSKissLVokY2xhc3NuYW1lWCRjbGFzc2VzXxATTlNNdXRhYmxlRGljdGlvbmFyeaMsLi9cTlNEaWN0aW9uYXJ5WE5TT2JqZWN00iorMTJfEBBOU0ZvbnREZXNjcmlwdG9yojMvXxAQTlNGb250RGVzY3JpcHRvctIqKy41oi4v0iorNzhfEBJOU0F0dHJpYnV0ZWRTdHJpbmeiOS9fEBJOU0F0dHJpYnV0ZWRTdHJpbmdfEA9OU0tleWVkQXJjaGl2ZXLRPD1Ucm9vdIABAAgAEQAaACMALQAyADcASQBPAFYAXwBmAHMAdQB3AHkB5gHtAfUCAAICAgQCBgIIAgoCLAIxAk4CUAJSAlkCXAJeAmACYwJlAmcCaQJ/ApUCngKoAq0CuALBAtcC2wLoAvEC9gMJAwwDHwMkAycDLANBA0QDWQNrA24DcwAAAAAAAAIBAAAAAAAAAD4AAAAAAAAAAAAAAAAAAAN1"
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "3A14BF71-3130-486F-BA55-A389574B2479",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 28,
+    "width": 790,
+    "x": 50,
+    "y": 63
+  },
+  "glyphBounds": "{{0, -1}, {759, 29}}",
+  "heightIsClipped": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Content",
+  "nameIsFixed": true,
+  "resizingConstraint": 15,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "sharedObjectID": "9F198724-4394-405F-82D8-790C4775A488",
+    "startDecorationType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "encodedAttributes": {
+        "MSAttributedStringFontAttribute": {
+          "_archive": "YnBsaXN0MDDUAQIDBAUGJidYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKkHCA0XGBkaGyJVJG51bGzSCQoLDFYkY2xhc3NfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AIgALTDg8JEBMWV05TLmtleXNaTlMub2JqZWN0c6IREoADgASiFBWABYAGgAdfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNAKAAAAAAAAFlIZWx2ZXRpY2HSHB0eH1okY2xhc3NuYW1lWCRjbGFzc2VzXxATTlNNdXRhYmxlRGljdGlvbmFyeaMeICFcTlNEaWN0aW9uYXJ5WE5TT2JqZWN00hwdIyRfEBBOU0ZvbnREZXNjcmlwdG9yoiUhXxAQTlNGb250RGVzY3JpcHRvcl8QD05TS2V5ZWRBcmNoaXZlctEoKVRyb290gAEACAARABoAIwAtADIANwBBAEcATABTAHAAcgB0AHsAgwCOAJEAkwCVAJgAmgCcAJ4AtADKANMA3QDiAO0A9gEMARABHQEmASsBPgFBAVQBZgFpAW4AAAAAAAACAQAAAAAAAAAqAAAAAAAAAAAAAAAAAAABcA=="
+        }
+      }
+    }
+  },
+  "textBehaviour": 1,
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "automatic": 1,
+          "left": {
+            "constant": 50,
+            "enabled": 1,
+            "modelID": "constraint_86006aff-a7c2-4f26-9aa1-729cc759f65d",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 0
+          },
+          "modelID": "viewConstraints_ecf3b7b7-e653-4bfb-a158-4157f1683b99",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1,
+          "top": {
+            "constant": 63,
+            "enabled": 1,
+            "modelID": "constraint_d2543905-df18-43ac-94c8-5cda0aa503e1",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 0
+          }
+        },
+        "isAutoWidth": 0
+      }
+    }
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGaGlYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QGQcIDxAcHR4fJysyNUBDRkpOVldYWVpeYmRVJG51bGzTCQoLDA0OWE5TU3RyaW5nViRjbGFzc1xOU0F0dHJpYnV0ZXOAAoAYgANeT3V0bGluZSBCdXR0b27TERIKExcbV05TLmtleXNaTlMub2JqZWN0c6MUFRaABIAFgAajGBkagAeAC4APgBdXTlNDb2xvcl8QEE5TUGFyYWdyYXBoU3R5bGVfEB9NU0F0dHJpYnV0ZWRTdHJpbmdGb250QXR0cmlidXRl1CAhIgojJCUmVU5TUkdCXE5TQ29sb3JTcGFjZV8QEk5TQ3VzdG9tQ29sb3JTcGFjZU8QJzAuMjg4NjU1Njk4MyAwLjU2NDU1MTg4OTkgMC44ODYyMzg2OTQyABABgAiACtIoCikqVE5TSUQQAYAJ0iwtLi9aJGNsYXNzbmFtZVgkY2xhc3Nlc1xOU0NvbG9yU3BhY2WiMDFcTlNDb2xvclNwYWNlWE5TT2JqZWN00iwtMzRXTlNDb2xvcqIzMdY2Nwo4OTo7PD0+JD5aTlNUYWJTdG9wc1tOU0FsaWdubWVudFxOU1RleHRCbG9ja3NfEB9OU0FsbG93c1RpZ2h0ZW5pbmdGb3JUcnVuY2F0aW9uW05TVGV4dExpc3RzgAAQAoAOgAyADNISCkFCoIAN0iwtREVXTlNBcnJheaJEMdIsLUdIXxAXTlNNdXRhYmxlUGFyYWdyYXBoU3R5bGWjR0kxXxAQTlNQYXJhZ3JhcGhTdHlsZdIKS0xNXxAaTlNGb250RGVzY3JpcHRvckF0dHJpYnV0ZXOAFoAQ0xESCk9SVaJQUYARgBKiU1SAE4AUgBVfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNALAAAAAAAAFxMYXRvLVJlZ3VsYXLSLC1bXF8QE05TTXV0YWJsZURpY3Rpb25hcnmjW10xXE5TRGljdGlvbmFyedIsLV9gXxAQTlNGb250RGVzY3JpcHRvcqJhMV8QEE5TRm9udERlc2NyaXB0b3LSLC1dY6JdMdIsLWVmXxASTlNBdHRyaWJ1dGVkU3RyaW5nomcxXxASTlNBdHRyaWJ1dGVkU3RyaW5nXxAPTlNLZXllZEFyY2hpdmVy0WprVHJvb3SAAQAIABEAGgAjAC0AMgA3AFMAWQBgAGkAcAB9AH8AgQCDAJIAmQChAKwAsACyALQAtgC6ALwAvgDAAMIAygDdAP8BCAEOARsBMAFaAVwBXgFgAWUBagFsAW4BcwF+AYcBlAGXAaQBrQGyAboBvQHKAdUB4QHuAhACHAIeAiACIgIkAiYCKwIsAi4CMwI7Aj4CQwJdAmECdAJ5ApYCmAKaAqECpAKmAqgCqwKtAq8CsQLHAt0C5gLzAvgDDgMSAx8DJAM3AzoDTQNSA1UDWgNvA3IDhwOZA5wDoQAAAAAAAAIBAAAAAAAAAGwAAAAAAAAAAAAAAAAAAAOj"
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "8B1AE573-82BF-42E3-A929-FC16E0417F91",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 17,
+    "width": 93,
+    "x": 44,
+    "y": 11
+  },
+  "glyphBounds": "{{0, 3}, {92, 12}}",
+  "heightIsClipped": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Label",
+  "nameIsFixed": true,
+  "originalObjectID": "8B1AE573-82BF-42E3-A929-FC16E0417F91",
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "84909D38-399A-4E00-A85C-971C9553F46F"
+  },
+  "textBehaviour": 0,
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "automatic": 1,
+          "centerHorizontally": {
+            "constant": 0,
+            "enabled": 1,
+            "modelID": "constraint_dbd7b236-e722-48bf-ae77-1c52a16e7a81",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 0
+          },
+          "centerVertically": {
+            "constant": -0.5,
+            "enabled": 1,
+            "modelID": "constraint_490f2906-bf67-480d-a0d4-be7a3e7c9f75",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 0
+          },
+          "modelID": "viewConstraints_5d1a00d1-509f-451d-9661-d7727c128cea",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        },
+        "isAutoWidth": 1
+      }
+    },
+    "com.facebook.sketchplugins": {
+      "FBLayerMetadata": {
+        "FBSemaphore": {
+          "objectID": "048968E3-3CB9-46EC-BA4E-0BC90812C23A"
+        }
+      }
+    }
+  }
+}

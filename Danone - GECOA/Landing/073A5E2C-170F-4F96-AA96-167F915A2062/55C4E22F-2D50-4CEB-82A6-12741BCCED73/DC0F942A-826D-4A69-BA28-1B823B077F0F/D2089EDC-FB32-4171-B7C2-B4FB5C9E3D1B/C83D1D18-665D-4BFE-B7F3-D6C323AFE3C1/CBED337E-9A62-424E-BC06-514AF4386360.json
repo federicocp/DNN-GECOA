@@ -1,0 +1,95 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGYWJYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QFwcIDxAcHR4fJysyNT9DR09QUVJTV1tdVSRudWxs0wkKCwwNDlhOU1N0cmluZ1YkY2xhc3NcTlNBdHRyaWJ1dGVzgAKAFoADXxCKTWFueSBwZW9wbGUgaGFzIHRoZSBub3Rpb24gdGhhdCBlbmxpZ2h0ZW5tZW50IGlzIG9uZSBzdGF0ZS4gTWFueSBhbHNvIGJlbGlldmUgdGhhdCB3aGVuIGl0IGlzIGF0dGFpbmVkLCBhIHBlcnNvbiBpcyBmb3JldmVyIGluIHRoYXQgc3RhdGUu0xESChMXG1dOUy5rZXlzWk5TLm9iamVjdHOjFBUWgASABYAGoxgZGoAHgAuADYAVV05TQ29sb3JfEBBOU1BhcmFncmFwaFN0eWxlXxAfTVNBdHRyaWJ1dGVkU3RyaW5nRm9udEF0dHJpYnV0ZdQgISIKIyQlJlVOU1JHQlxOU0NvbG9yU3BhY2VfEBJOU0N1c3RvbUNvbG9yU3BhY2VGMCAwIDAAEAGACIAK0igKKSpUTlNJRBABgAnSLC0uL1okY2xhc3NuYW1lWCRjbGFzc2VzXE5TQ29sb3JTcGFjZaIwMVxOU0NvbG9yU3BhY2VYTlNPYmplY3TSLC0zNFdOU0NvbG9yojMx1jY3OAo5Ojs8PT4kPVtOU0FsaWdubWVudFpOU1RhYlN0b3BzXxAPTlNNaW5MaW5lSGVpZ2h0XxAfTlNBbGxvd3NUaWdodGVuaW5nRm9yVHJ1bmNhdGlvbl8QD05TTWF4TGluZUhlaWdodBACgAAjQDAAAAAAAACADNIsLUBBXxAXTlNNdXRhYmxlUGFyYWdyYXBoU3R5bGWjQEIxXxAQTlNQYXJhZ3JhcGhTdHlsZdIKREVGXxAaTlNGb250RGVzY3JpcHRvckF0dHJpYnV0ZXOAFIAO0xESCkhLTqJJSoAPgBCiTE2AEYASgBNfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNAKAAAAAAAAFxMYXRvLVJlZ3VsYXLSLC1UVV8QE05TTXV0YWJsZURpY3Rpb25hcnmjVFYxXE5TRGljdGlvbmFyedIsLVhZXxAQTlNGb250RGVzY3JpcHRvcqJaMV8QEE5TRm9udERlc2NyaXB0b3LSLC1WXKJWMdIsLV5fXxASTlNBdHRyaWJ1dGVkU3RyaW5nomAxXxASTlNBdHRyaWJ1dGVkU3RyaW5nXxAPTlNLZXllZEFyY2hpdmVy0WNkVHJvb3SAAQAIABEAGgAjAC0AMgA3AFEAVwBeAGcAbgB7AH0AfwCBAQ4BFQEdASgBLAEuATABMgE2ATgBOgE8AT4BRgFZAXsBhAGKAZcBrAGzAbUBtwG5Ab4BwwHFAccBzAHXAeAB7QHwAf0CBgILAhMCFgIjAi8COgJMAm4CgAKCAoQCjQKPApQCrgKyAsUCygLnAukC6wLyAvUC9wL5AvwC/gMAAwIDGAMuAzcDRANJA18DYwNwA3UDiAOLA54DowOmA6sDwAPDA9gD6gPtA/IAAAAAAAACAQAAAAAAAABlAAAAAAAAAAAAAAAAAAAD9A=="
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "CBED337E-9A62-424E-BC06-514AF4386360",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 88,
+    "width": 180,
+    "x": 2,
+    "y": 37
+  },
+  "glyphBounds": "{{4, 4}, {173, 74}}",
+  "heightIsClipped": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Descripcion",
+  "nameIsFixed": true,
+  "resizingConstraint": 26,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "03746B95-D6FC-4F38-BF79-3A9053690C2C"
+  },
+  "textBehaviour": 1,
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "automatic": 1,
+          "left": {
+            "constant": 2,
+            "enabled": 1,
+            "modelID": "constraint_d1360b91-875c-478d-884c-c2fbb310da8b",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 0
+          },
+          "modelID": "viewConstraints_b863dad7-45a8-4a75-a7b1-6fb651ee1346",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "right": {
+            "constant": 2,
+            "enabled": 1,
+            "modelID": "constraint_060ca473-ff56-4eec-987e-ebbdebd237ce",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 0
+          },
+          "scaleFactor": 1,
+          "top": {
+            "constant": 37,
+            "enabled": 1,
+            "modelID": "constraint_8c712d84-4371-4efb-a4e2-147aafa45cb0",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 0
+          }
+        },
+        "isAutoWidth": 0
+      }
+    },
+    "com.invisionlabs.duplicate": {
+      "type-duplicate": {
+        "action": "article",
+        "options": {
+          "section": "philosophy",
+          "type": "body"
+        },
+        "title": "Philosophy"
+      }
+    }
+  }
+}

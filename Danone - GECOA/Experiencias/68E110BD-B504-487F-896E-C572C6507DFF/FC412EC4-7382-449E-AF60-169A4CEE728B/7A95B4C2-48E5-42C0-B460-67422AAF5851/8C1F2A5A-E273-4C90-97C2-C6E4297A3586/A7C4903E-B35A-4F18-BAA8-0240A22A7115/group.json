@@ -1,0 +1,113 @@
+{
+  "_class": "group",
+  "do_objectID": "A7C4903E-B35A-4F18-BAA8-0240A22A7115",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 100,
+    "width": 900,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "7C39B9ED-7969-4D31-A7F4-7D895EEA601F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "57185B22-A2D7-4225-90EF-936000754133"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0E97DC48-E3D9-4C3C-9134-D7BB50D69077"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "468B5416-41B9-4A81-AEB8-4EC1E212EF03"
+    },
+    {
+      "class": "text",
+      "id": "45085D71-651F-48A6-AD2D-C45D33117BAD"
+    },
+    {
+      "class": "text",
+      "id": "A59D6293-8819-4A51-8935-374A58016627"
+    },
+    {
+      "class": "text",
+      "id": "188D3B25-409B-4893-8914-E6C3A9522781"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7FB068B2-5CB8-4C3B-B2C9-374DD888A810"
+    }
+  ],
+  "name": "Item",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "actions": [
+          {
+            "animation": 0,
+            "customAnimationId": "",
+            "delayFromTrigger": 0,
+            "modelID": "OpenScreen_38dc249f-066b-4433-a598-6726193b1553",
+            "model_class": "ADModelActionPresentScreen",
+            "model_version": 0.1,
+            "name": "untitled",
+            "presentationType": 2,
+            "screenId": "50076634-DFC8-43B5-A1DF-7CE73D49819D",
+            "trigger": 4
+          }
+        ]
+      }
+    },
+    "com.invision.prototype": {
+      "backgroundOpacity": 0,
+      "closeOnClickOutside": 1,
+      "componentType": "SRLink",
+      "fixOverlayPosition": 1,
+      "gesture": 0,
+      "linkType": 0,
+      "maintainScrollPositionAfterGesture": 0,
+      "maintainScrollPositionAfterRedirect": 0,
+      "openURLInNewWindow": 0,
+      "overlayPosition": 0,
+      "overlayTransition": 0,
+      "redirectAfter": 0,
+      "reverseTransitionOnClose": 1,
+      "scrollToPosition": 0,
+      "smoothScrolling": 0,
+      "stayOnTargetScreen": 0,
+      "targetArtboardID": "50076634-DFC8-43B5-A1DF-7CE73D49819D",
+      "transition": 0
+    }
+  }
+}

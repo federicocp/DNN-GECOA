@@ -1,0 +1,67 @@
+{
+  "_class": "group",
+  "do_objectID": "9C1BB452-6DFF-4CCE-917D-78C8477B7EDC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 155,
+    "width": 900,
+    "x": 0,
+    "y": 969
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "8E0F3EE8-E4F5-46D5-93B7-506B95084891"
+    },
+    {
+      "class": "text",
+      "id": "3A14BF71-3130-486F-BA55-A389574B2479"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A608890E-EC2C-4CED-81B9-FADE343159B8"
+    },
+    {
+      "class": "text",
+      "id": "994B73A9-44DD-45FA-B133-B4487FD8DC53"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "0E16B842-ABCA-4556-9D2E-243BF3C4639E"
+    }
+  ],
+  "name": "Tecnologias",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

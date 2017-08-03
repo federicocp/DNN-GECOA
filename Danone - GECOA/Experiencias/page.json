@@ -1,0 +1,105 @@
+{
+  "_class": "page",
+  "do_objectID": "93C1A785-B5F5-4B85-A30F-A15A091BF6ED",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 300,
+    "width": 300,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "artboard",
+      "id": "68E110BD-B504-487F-896E-C572C6507DFF"
+    },
+    {
+      "class": "artboard",
+      "id": "BA7C2FC1-165F-4455-AA55-83CD70EEA23C"
+    },
+    {
+      "class": "artboard",
+      "id": "50076634-DFC8-43B5-A1DF-7CE73D49819D"
+    },
+    {
+      "class": "artboard",
+      "id": "203DEA9E-0680-4C86-BBA7-4C5AB0C0642C"
+    },
+    {
+      "class": "artboard",
+      "id": "EA13207E-132A-4C4F-BB79-3617383EB06D"
+    },
+    {
+      "class": "artboard",
+      "id": "0B65C678-3F6F-49DA-AF01-6FBBE49EBDE9"
+    },
+    {
+      "class": "artboard",
+      "id": "038ACD4F-602D-4B27-B5DE-D6A361011950"
+    },
+    {
+      "class": "artboard",
+      "id": "F32C44AF-480F-490D-A1C2-EF54822EA515"
+    },
+    {
+      "class": "artboard",
+      "id": "22006860-C0F7-4B08-B006-1507CACCDD42"
+    },
+    {
+      "class": "artboard",
+      "id": "F3AE6405-BCC7-4449-9B5B-6B922824DA0B"
+    }
+  ],
+  "name": "Experiencias",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "com.animaapp.animaPageID": "27C35AF1-485A-495F-BB16-ADF9651C6232"
+    },
+    "com.invision.prototype": {
+      "lastUsedGestureID": 0
+    },
+    "com.invisionlabs.data": {
+      "json-files": "[{\"path\":\"12B869BB-5101-4DBE-84A7-A1A54EC41E3D.json\",\"name\":\"http:\\/\\/www.mocky.io\\/v2\\/5978fb451300008e07c10115\",\"hash\":\"86dc2f111af8967c0dbc798c7faf62b073cb3f97\"},{\"path\":\"B8CD1A6C-1ABF-468F-B36B-C75427400B8F.json\",\"name\":\"http:\\/\\/gecoa.getsandbox.com\\/experiencias\\/chaco\",\"hash\":\"2e52728c0bbe669f879c805e2f0eb6e2229065b1\"}]"
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGXl9YJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QFwcIDxAcHR4fJysyNTxARExNTk9QVFhaVSRudWxs0wkKCwwNDlhOU1N0cmluZ1YkY2xhc3NcTlNBdHRyaWJ1dGVzgAKAFoADbgC/AFEAdQDpACAAZQBzACAARwBFAEMATwBBAD/TERIKExcbV05TLmtleXNaTlMub2JqZWN0c6MUFRaABIAFgAajGBkagAeAC4ANgBVXTlNDb2xvcl8QEE5TUGFyYWdyYXBoU3R5bGVfEB9NU0F0dHJpYnV0ZWRTdHJpbmdGb250QXR0cmlidXRl1CAhIgojJCUmVU5TUkdCXE5TQ29sb3JTcGFjZV8QEk5TQ3VzdG9tQ29sb3JTcGFjZUYwIDAgMAAQAYAIgArSKAopKlROU0lEEAGACdIsLS4vWiRjbGFzc25hbWVYJGNsYXNzZXNcTlNDb2xvclNwYWNlojAxXE5TQ29sb3JTcGFjZVhOU09iamVjdNIsLTM0V05TQ29sb3KiMzHUNjc4Cjk6JDtaTlNUYWJTdG9wc1tOU0FsaWdubWVudF8QH05TQWxsb3dzVGlnaHRlbmluZ0ZvclRydW5jYXRpb26AABACgAzSLC09Pl8QF05TTXV0YWJsZVBhcmFncmFwaFN0eWxloz0/MV8QEE5TUGFyYWdyYXBoU3R5bGXSCkFCQ18QGk5TRm9udERlc2NyaXB0b3JBdHRyaWJ1dGVzgBSADtMREgpFSEuiRkeAD4AQoklKgBGAEoATXxATTlNGb250U2l6ZUF0dHJpYnV0ZV8QE05TRm9udE5hbWVBdHRyaWJ1dGUjQDgAAAAAAABZTGF0by1Cb2xk0iwtUVJfEBNOU011dGFibGVEaWN0aW9uYXJ5o1FTMVxOU0RpY3Rpb25hcnnSLC1VVl8QEE5TRm9udERlc2NyaXB0b3KiVzFfEBBOU0ZvbnREZXNjcmlwdG9y0iwtU1miUzHSLC1bXF8QEk5TQXR0cmlidXRlZFN0cmluZ6JdMV8QEk5TQXR0cmlidXRlZFN0cmluZ18QD05TS2V5ZWRBcmNoaXZlctFgYVRyb290gAEACAARABoAIwAtADIANwBRAFcAXgBnAG4AewB9AH8AgQCeAKUArQC4ALwAvgDAAMIAxgDIAMoAzADOANYA6QELARQBGgEnATwBQwFFAUcBSQFOAVMBVQFXAVwBZwFwAX0BgAGNAZYBmwGjAaYBrwG6AcYB6AHqAewB7gHzAg0CEQIkAikCRgJIAkoCUQJUAlYCWAJbAl0CXwJhAncCjQKWAqACpQK7Ar8CzALRAuQC5wL6Av8DAgMHAxwDHwM0A0YDSQNOAAAAAAAAAgEAAAAAAAAAYgAAAAAAAAAAAAAAAAAAA1A="
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "DB634458-29F3-40F0-A383-2BFB8AB9AA03",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 29,
+    "width": 252,
+    "x": 294,
+    "y": 0
+  },
+  "glyphBounds": "{{36, 6}, {180, 23}}",
+  "heightIsClipped": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "¿Qué es GECOA?",
+  "nameIsFixed": false,
+  "resizingConstraint": 15,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "3DE0CAF6-C66D-4CA8-916F-ABA175E3FCEE"
+  },
+  "textBehaviour": 1,
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "automatic": 1,
+          "centerHorizontally": {
+            "constant": 0,
+            "enabled": 1,
+            "modelID": "constraint_934c7617-8317-4158-8936-50aa64098991",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 0
+          },
+          "modelID": "viewConstraints_1f5cba0c-f1eb-4b4c-a357-18914d7caf48",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        },
+        "isAutoWidth": 0
+      }
+    }
+  }
+}

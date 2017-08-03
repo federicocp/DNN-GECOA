@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "CA1A719A-DE28-42B3-B7F0-5A9E2D00ADDB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 173,
+    "width": 900,
+    "x": 0,
+    "y": 797
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 1,
+  "masterInfluenceEdgeMaxYPadding": 1,
+  "masterInfluenceEdgeMinXPadding": 1,
+  "masterInfluenceEdgeMinYPadding": 1,
+  "name": "Metodologia",
+  "nameIsFixed": true,
+  "originalObjectID": "529222A6-1C3B-426D-8E9F-CF0EE5CC9760",
+  "overrides": {
+    "9A9F9D02-04C8-4A66-A8E7-BA9CCC673E88": "Esta iniciativa tiene por objetivos:\r* Recuperar ambientalmente la Cuenca Matanza Riachuelo.\r* Mejorar paulatinamente las condiciones de vida de la población afectada por el estado actual de la cuenca. \r",
+    "C5121B1E-5276-4774-9771-530E732306AA": "Metodología"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "CFD724B8-B583-47DE-A9A5-6297D9FA4FD8",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}
