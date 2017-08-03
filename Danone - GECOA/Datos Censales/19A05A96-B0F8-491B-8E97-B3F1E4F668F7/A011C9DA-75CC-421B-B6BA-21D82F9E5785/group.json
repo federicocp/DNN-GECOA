@@ -14,7 +14,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 75,
-    "width": 181,
+    "width": 183,
     "x": 13,
     "y": 27
   },
@@ -26,20 +26,20 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "group",
-      "id": "33DDC5C9-A190-4CBD-981D-B36419EF4C70"
+      "class": "symbolInstance",
+      "id": "ED790C9B-4046-4D36-9CED-1C1AAD6B9444"
     },
     {
-      "class": "group",
-      "id": "03AD4DE5-9DDA-413A-8AC0-3DD86FF3C46C"
+      "class": "symbolInstance",
+      "id": "61CE8F47-4495-46B5-A123-BAD8EA4FE8A0"
     },
     {
-      "class": "group",
-      "id": "A4C53A3A-AA64-41EA-BAEB-669C857CECB8"
+      "class": "symbolInstance",
+      "id": "1BA04A5A-7D6A-416F-BC56-333C09685216"
     },
     {
-      "class": "group",
-      "id": "234FC9A5-D1B3-4192-A66E-1677B90F539C"
+      "class": "symbolInstance",
+      "id": "35BA5910-2520-4AAE-9C3F-8266CDD610A5"
     }
   ],
   "name": "Group 3",

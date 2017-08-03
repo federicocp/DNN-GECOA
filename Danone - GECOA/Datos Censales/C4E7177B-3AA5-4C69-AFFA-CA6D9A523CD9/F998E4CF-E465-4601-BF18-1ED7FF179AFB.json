@@ -14,8 +14,8 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 40,
-    "width": 225,
-    "x": 368,
+    "width": 190,
+    "x": 385,
     "y": 195
   },
   "horizontalSpacing": 0,
@@ -32,7 +32,7 @@
   "nameIsFixed": false,
   "originalObjectID": "48FC8EED-EFD9-4468-B606-E8A4142CD34B",
   "overrides": {
-    "A480B791-3895-40BC-8254-55BB793C0A24": "Indice de Urgencia GECOA"
+    "A480B791-3895-40BC-8254-55BB793C0A24": "Indice para la Gestión"
   },
   "resizingConstraint": 63,
   "resizingType": 0,

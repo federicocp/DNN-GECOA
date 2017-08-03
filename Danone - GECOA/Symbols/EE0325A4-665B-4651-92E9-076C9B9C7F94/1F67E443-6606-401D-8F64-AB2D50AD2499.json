@@ -1,6 +1,6 @@
 {
   "_class": "symbolInstance",
-  "do_objectID": "9203B06B-82A1-4030-AF53-857733C1650A",
+  "do_objectID": "1F67E443-6606-401D-8F64-AB2D50AD2499",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -12,11 +12,11 @@
   },
   "frame": {
     "_class": "rect",
-    "constrainProportions": false,
-    "height": 40,
-    "width": 190,
-    "x": 385,
-    "y": 195
+    "constrainProportions": true,
+    "height": 15,
+    "width": 15,
+    "x": 0,
+    "y": 0
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -28,13 +28,10 @@
   "masterInfluenceEdgeMaxYPadding": 0,
   "masterInfluenceEdgeMinXPadding": 0,
   "masterInfluenceEdgeMinYPadding": 0,
-  "name": "Controls/Button Dropdown",
+  "name": "Controls/Options/RadioButton/Selected",
   "nameIsFixed": false,
-  "originalObjectID": "48FC8EED-EFD9-4468-B606-E8A4142CD34B",
-  "overrides": {
-    "A480B791-3895-40BC-8254-55BB793C0A24": "Indice para la Gestión"
-  },
-  "resizingConstraint": 63,
+  "originalObjectID": "1F67E443-6606-401D-8F64-AB2D50AD2499",
+  "resizingConstraint": 9,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
@@ -44,10 +41,25 @@
     "miterLimit": 10,
     "startDecorationType": 0
   },
-  "symbolID": "F9158FED-07C1-4A31-BE41-4083C96699AC",
+  "symbolID": "85FF4FC1-F94D-4AA1-84CA-D1748D2E6261",
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 15,
+            "enabled": 1,
+            "modelID": "constraint_641996a2-8774-4ae2-b093-5e8394f6e0fe",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 15
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_35d36dce-f6db-4314-973d-fc79d4ed4e8e",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
       }
     }
   },
