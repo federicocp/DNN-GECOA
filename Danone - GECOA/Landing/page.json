@@ -35,6 +35,14 @@
     {
       "class": "artboard",
       "id": "073A5E2C-170F-4F96-AA96-167F915A2062"
+    },
+    {
+      "class": "text",
+      "id": "504CE23B-757A-4957-AAD2-8843C61560D0"
+    },
+    {
+      "class": "text",
+      "id": "D40CE445-4F36-4905-8A85-FD817C7AD4E8"
     }
   ],
   "name": "Landing",

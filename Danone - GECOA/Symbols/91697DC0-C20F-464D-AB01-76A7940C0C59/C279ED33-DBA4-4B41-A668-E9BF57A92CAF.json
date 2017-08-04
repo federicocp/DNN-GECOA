@@ -1,0 +1,55 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGXl9YJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QFwcIDxAcHR4fJysyNTxARExNTk9QVFhaVSRudWxs0wkKCwwNDlhOU1N0cmluZ1YkY2xhc3NcTlNBdHRyaWJ1dGVzgAKAFoADXxAhT3JnYW5pemFjaW9uZXMgcXVlIGltcHVsc2FuIEdFQ09B0xESChMXG1dOUy5rZXlzWk5TLm9iamVjdHOjFBUWgASABYAGoxgZGoAHgAuADYAVV05TQ29sb3JfEBBOU1BhcmFncmFwaFN0eWxlXxAfTVNBdHRyaWJ1dGVkU3RyaW5nRm9udEF0dHJpYnV0ZdQgISIKIyQlJlVOU1JHQlxOU0NvbG9yU3BhY2VfEBJOU0N1c3RvbUNvbG9yU3BhY2VGMCAwIDAAEAGACIAK0igKKSpUTlNJRBABgAnSLC0uL1okY2xhc3NuYW1lWCRjbGFzc2VzXE5TQ29sb3JTcGFjZaIwMVxOU0NvbG9yU3BhY2VYTlNPYmplY3TSLC0zNFdOU0NvbG9yojMx1DY3OAo5OiQ7Wk5TVGFiU3RvcHNbTlNBbGlnbm1lbnRfEB9OU0FsbG93c1RpZ2h0ZW5pbmdGb3JUcnVuY2F0aW9ugAAQAoAM0iwtPT5fEBdOU011dGFibGVQYXJhZ3JhcGhTdHlsZaM9PzFfEBBOU1BhcmFncmFwaFN0eWxl0gpBQkNfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AUgA7TERIKRUhLokZHgA+AEKJJSoARgBKAE18QE05TRm9udFNpemVBdHRyaWJ1dGVfEBNOU0ZvbnROYW1lQXR0cmlidXRlI0A4AAAAAAAAWUxhdG8tQm9sZNIsLVFSXxATTlNNdXRhYmxlRGljdGlvbmFyeaNRUzFcTlNEaWN0aW9uYXJ50iwtVVZfEBBOU0ZvbnREZXNjcmlwdG9yolcxXxAQTlNGb250RGVzY3JpcHRvctIsLVNZolMx0iwtW1xfEBJOU0F0dHJpYnV0ZWRTdHJpbmeiXTFfEBJOU0F0dHJpYnV0ZWRTdHJpbmdfEA9OU0tleWVkQXJjaGl2ZXLRYGFUcm9vdIABAAgAEQAaACMALQAyADcAUQBXAF4AZwBuAHsAfQB/AIEApQCsALQAvwDDAMUAxwDJAM0AzwDRANMA1QDdAPABEgEbASEBLgFDAUoBTAFOAVABVQFaAVwBXgFjAW4BdwGEAYcBlAGdAaIBqgGtAbYBwQHNAe8B8QHzAfUB+gIUAhgCKwIwAk0CTwJRAlgCWwJdAl8CYgJkAmYCaAJ+ApQCnQKnAqwCwgLGAtMC2ALrAu4DAQMGAwkDDgMjAyYDOwNNA1ADVQAAAAAAAAIBAAAAAAAAAGIAAAAAAAAAAAAAAAAAAANX"
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "C279ED33-DBA4-4B41-A668-E9BF57A92CAF",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 29,
+    "width": 468,
+    "x": 246,
+    "y": 20
+  },
+  "glyphBounds": "{{34, 6}, {401, 23}}",
+  "heightIsClipped": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Organizaciones que i",
+  "nameIsFixed": false,
+  "originalObjectID": "C279ED33-DBA4-4B41-A668-E9BF57A92CAF",
+  "resizingConstraint": 15,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "3DE0CAF6-C66D-4CA8-916F-ABA175E3FCEE"
+  },
+  "textBehaviour": 1,
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "isAutoWidth": 0
+      }
+    }
+  }
+}

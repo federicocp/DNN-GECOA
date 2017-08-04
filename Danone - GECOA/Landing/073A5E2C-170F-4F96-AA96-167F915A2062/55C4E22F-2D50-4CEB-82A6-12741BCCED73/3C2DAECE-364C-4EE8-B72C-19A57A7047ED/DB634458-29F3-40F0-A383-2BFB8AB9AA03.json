@@ -22,11 +22,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 29,
-    "width": 252,
-    "x": 294,
-    "y": 0
+    "width": 181,
+    "x": 390,
+    "y": 20
   },
-  "glyphBounds": "{{36, 6}, {180, 23}}",
+  "glyphBounds": "{{0, 6}, {181, 23}}",
   "heightIsClipped": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -36,21 +36,21 @@
   "lineSpacingBehaviour": 2,
   "name": "¿Qué es GECOA?",
   "nameIsFixed": false,
-  "resizingConstraint": 15,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "sharedObjectID": "3DE0CAF6-C66D-4CA8-916F-ABA175E3FCEE"
   },
-  "textBehaviour": 1,
+  "textBehaviour": 0,
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
         "constraints": {
           "automatic": 1,
           "centerHorizontally": {
-            "constant": 0,
+            "constant": 0.5,
             "enabled": 1,
             "modelID": "constraint_934c7617-8317-4158-8936-50aa64098991",
             "model_class": "ADModelConstraint",
@@ -62,7 +62,7 @@
           "model_version": 0.1,
           "scaleFactor": 1
         },
-        "isAutoWidth": 0
+        "isAutoWidth": 1
       }
     }
   }

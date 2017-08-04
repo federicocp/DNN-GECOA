@@ -13,9 +13,9 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 210,
-    "width": 840,
-    "x": 60,
+    "height": 214,
+    "width": 960,
+    "x": 0,
     "y": 0
   },
   "hasClickThrough": false,
@@ -23,19 +23,23 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "C17A6DAA-F7F3-49F8-AF0F-B3CF014F691E"
+    },
     {
       "class": "symbolInstance",
       "id": "F9B04744-F62F-4A06-87FF-3C843F526F0D"
     },
     {
       "class": "text",
-      "id": "DB634458-29F3-40F0-A383-2BFB8AB9AA03"
+      "id": "20B9A3CA-8E4A-40AF-8757-E19643C400B1"
     },
     {
       "class": "text",
-      "id": "20B9A3CA-8E4A-40AF-8757-E19643C400B1"
+      "id": "DB634458-29F3-40F0-A383-2BFB8AB9AA03"
     }
   ],
   "name": "Que es GECOA",

@@ -5,6 +5,38 @@
     "colors": [
     ],
     "gradients": [
+      {
+        "_class": "gradient",
+        "elipseLength": 0,
+        "from": "{0.5, 1}",
+        "gradientType": 0,
+        "shouldSmoothenOpacity": false,
+        "stops": [
+          {
+            "_class": "gradientStop",
+            "color": {
+              "_class": "color",
+              "alpha": 1,
+              "blue": 1,
+              "green": 1,
+              "red": 1
+            },
+            "position": 0
+          },
+          {
+            "_class": "gradientStop",
+            "color": {
+              "_class": "color",
+              "alpha": 0,
+              "blue": 1,
+              "green": 1,
+              "red": 1
+            },
+            "position": 1
+          }
+        ],
+        "to": "{0.49999999999999989, 3.0616169978683836e-17}"
+      }
     ],
     "imageCollection": {
       "_class": "imageCollection",

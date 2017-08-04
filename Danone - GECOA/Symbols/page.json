@@ -283,6 +283,14 @@
     {
       "class": "symbolMaster",
       "id": "EE0325A4-665B-4651-92E9-076C9B9C7F94"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "91697DC0-C20F-464D-AB01-76A7940C0C59"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "7D324901-2E1F-42EB-B1D1-3BACDDA4F641"
     }
   ],
   "name": "Symbols",
@@ -306,6 +314,7 @@
     "_class": "rulerData",
     "base": -370,
     "guides": [
+      -442
     ]
   }
 }
