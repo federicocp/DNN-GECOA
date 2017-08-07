@@ -20,7 +20,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1231,
+    "height": 1140,
     "width": 960,
     "x": 1060,
     "y": 0
@@ -43,31 +43,19 @@
   "layers": [
     {
       "class": "symbolInstance",
-      "id": "6521C5E1-1BB6-46A8-83A6-BA9B9701FF7F"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "5EB026A4-41C7-4E0A-B67C-942605675E0F"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "9203B06B-82A1-4030-AF53-857733C1650A"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "01A4D862-D067-446F-BE8B-1D1581FDE379"
+      "id": "FA5E58A2-38DD-4744-A7A5-AEB0941FFA1E"
     },
     {
       "class": "group",
-      "id": "5F040DBE-BFE4-4AD8-A024-C825707D7509"
+      "id": "ED7C9B0A-D0A8-4D2B-B388-A3CA8170D8AE"
     },
     {
       "class": "symbolInstance",
-      "id": "4155267F-7290-4D00-A425-330147D45A90"
+      "id": "6748EB1E-3131-46CD-8701-BDBC878E953C"
     },
     {
       "class": "symbolInstance",
-      "id": "FB87E19B-1E1A-4F86-B470-BE341D1680BD"
+      "id": "696A476F-4073-41C1-9EFE-DFDFEB6D9D0B"
     }
   ],
   "name": "Datos Censales - BA 1",

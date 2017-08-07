@@ -20,7 +20,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1231,
+    "height": 1140,
     "width": 960,
     "x": 70,
     "y": 0
@@ -43,19 +43,7 @@
   "layers": [
     {
       "class": "symbolInstance",
-      "id": "9324D3AE-C5F8-4630-B382-328FA39A1EB3"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "054D8143-E44D-435D-A0B0-259A4725D5F5"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "F998E4CF-E465-4601-BF18-1ED7FF179AFB"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "C07446CF-FB37-4A35-A7EB-1D622357C2FD"
+      "id": "DE4B73F1-4943-46D6-B1EC-A1CA0EECE492"
     },
     {
       "class": "group",
@@ -63,7 +51,11 @@
     },
     {
       "class": "symbolInstance",
-      "id": "DE4B73F1-4943-46D6-B1EC-A1CA0EECE492"
+      "id": "9324D3AE-C5F8-4630-B382-328FA39A1EB3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "054D8143-E44D-435D-A0B0-259A4725D5F5"
     }
   ],
   "name": "Datos Censales - NAC 0",

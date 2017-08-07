@@ -1,0 +1,87 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "changeIdentifier": 148,
+  "do_objectID": "58BB1B65-7DDE-47A4-B6D2-E2C80EBBA15E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 325,
+    "width": 346,
+    "x": 4395,
+    "y": -1132
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "D693E00D-7B38-468A-BCDB-52E0C53D20CE"
+    },
+    {
+      "class": "group",
+      "id": "70C8BD78-6194-460E-8996-818CE42C918B"
+    },
+    {
+      "class": "group",
+      "id": "9D280CE0-464E-480E-99F1-528F8DD3C59F"
+    },
+    {
+      "class": "group",
+      "id": "000093F7-1C99-4917-A1C0-0C8E92D074A7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CB0042A3-131E-4199-A7E4-31A8A0C510D2"
+    }
+  ],
+  "name": "Content/Estadisticas/Indicadores",
+  "nameIsFixed": false,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "DF7D71EF-DB69-4652-B3DC-114E047EE676",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

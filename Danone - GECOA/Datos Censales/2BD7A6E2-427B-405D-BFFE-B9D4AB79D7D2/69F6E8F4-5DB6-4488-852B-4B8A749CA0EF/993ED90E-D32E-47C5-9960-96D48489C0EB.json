@@ -1,0 +1,74 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "993ED90E-D32E-47C5-9960-96D48489C0EB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 325,
+    "width": 346,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "Content/Estadisticas/Indicadores",
+  "nameIsFixed": false,
+  "overrides": {
+    "87CB51C8-1EC4-4F95-B5C1-D1A8F60627D2": {
+      "symbolID": "94BF2B6E-D6D5-484F-8DF6-05863CE9A3AD"
+    },
+    "B5889213-9CCA-4FA6-BD38-F8C373B5E739": {
+      "symbolID": "94BF2B6E-D6D5-484F-8DF6-05863CE9A3AD"
+    },
+    "BFDDE6D4-C33D-49F4-89A8-EC77EF8D1770": {
+      "9A76B1A5-9169-4EDA-B4A0-27E2E7919387": "0,12"
+    },
+    "C18EEF37-03F8-4DDD-A484-D1DEAB5071CC": {
+      "symbolID": "58F603A8-BD8C-4954-8AE4-0A1A81001885"
+    },
+    "CB0042A3-131E-4199-A7E4-31A8A0C510D2": {
+      "A480B791-3895-40BC-8254-55BB793C0A24": "Buenos Aires"
+    },
+    "D9321569-F46F-4E1B-BBAF-31673F5F1618": {
+      "9A76B1A5-9169-4EDA-B4A0-27E2E7919387": "5,43"
+    },
+    "DE500DD5-FE19-4B01-94EF-88DF429A9977": {
+      "9A76B1A5-9169-4EDA-B4A0-27E2E7919387": "6,32"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "DF7D71EF-DB69-4652-B3DC-114E047EE676",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

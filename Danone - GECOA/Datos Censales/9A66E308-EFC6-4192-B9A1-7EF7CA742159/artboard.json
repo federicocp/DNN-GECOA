@@ -20,10 +20,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1231,
+    "height": 1140,
     "width": 960,
     "x": 70,
-    "y": 1317
+    "y": 1261
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -43,31 +43,19 @@
   "layers": [
     {
       "class": "symbolInstance",
-      "id": "4C022D55-3434-43FC-B1AD-E3A877701370"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "056FF7FC-5CA9-4DB5-9932-C67F17E0FB09"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "A4530283-A53E-4E19-8F0E-D234126552B6"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "7EB828A4-0B0A-4C1B-AF4A-2E95E8417939"
-    },
-    {
-      "class": "group",
-      "id": "BAE69D18-5537-466A-8721-D0F150893387"
-    },
-    {
-      "class": "symbolInstance",
       "id": "9A6530D7-C3EE-4907-9A9F-DE73B8AFCC9F"
     },
     {
       "class": "group",
-      "id": "64BBAD35-2E7D-4EB2-98C8-FC0EBB3C7679"
+      "id": "99DD20FF-4C87-4C8C-9285-7409B2BDB197"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6B2580ED-9A9D-4E98-BF3C-93315228E2B6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "056FF7FC-5CA9-4DB5-9932-C67F17E0FB09"
     }
   ],
   "name": "Datos Censales - NAC 1",

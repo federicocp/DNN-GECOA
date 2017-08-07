@@ -42,8 +42,8 @@
     "_class": "style",
     "colorControls": {
       "_class": "colorControls",
-      "brightness": 0.006967905405405483,
-      "contrast": 1.548141891891892,
+      "brightness": -0.2417079420522215,
+      "contrast": 3.255239349519011,
       "hue": 0.1542272575928263,
       "isEnabled": true,
       "saturation": 0
@@ -57,12 +57,12 @@
       "kModelPropertiesKey": {
         "constraints": {
           "aspectRatio": {
-            "constant": 268,
+            "constant": 249.8171,
             "enabled": 1,
             "modelID": "constraint_a472e14b-6668-435a-aa79-eaffcb20f638",
             "model_class": "ADModelConstraint",
             "model_version": 0.1,
-            "multiplier": 189.7345
+            "multiplier": 178.125
           },
           "automatic": 1,
           "modelID": "viewConstraints_1c979bb1-4056-4bb2-a359-7998e76fc787",

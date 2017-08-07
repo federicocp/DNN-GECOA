@@ -1,0 +1,60 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "1A1EC782-AE88-4467-B799-9B672B831C74",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 325,
+    "width": 346,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "Content/Estadisticas/Indicadores",
+  "nameIsFixed": false,
+  "overrides": {
+    "87CB51C8-1EC4-4F95-B5C1-D1A8F60627D2": {
+      "symbolID": "94BF2B6E-D6D5-484F-8DF6-05863CE9A3AD"
+    },
+    "B5889213-9CCA-4FA6-BD38-F8C373B5E739": {
+      "symbolID": "58F603A8-BD8C-4954-8AE4-0A1A81001885"
+    },
+    "DA61969A-81B6-43C4-9BAA-ACD38AF2BF7E": "0,12"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "DF7D71EF-DB69-4652-B3DC-114E047EE676",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}
