@@ -14,8 +14,8 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 71,
-    "width": 848,
-    "x": 53,
+    "width": 812,
+    "x": 74,
     "y": 78
   },
   "hasClickThrough": false,
@@ -46,8 +46,8 @@
       "id": "281A88DF-1D15-455D-B1B6-90161660C546"
     },
     {
-      "class": "group",
-      "id": "513AFD02-E670-4320-8035-9162FB39ADE7"
+      "class": "bitmap",
+      "id": "90A3F19C-0DB5-4758-A4F7-D2103DEF502F"
     },
     {
       "class": "text",

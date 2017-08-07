@@ -14,8 +14,8 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 40,
-    "width": 212,
-    "x": 374,
+    "width": 245,
+    "x": 358,
     "y": 213
   },
   "horizontalSpacing": 0,
@@ -32,7 +32,7 @@
   "nameIsFixed": false,
   "originalObjectID": "129D578C-4C03-4FCE-9D82-AD4E311A5B00",
   "overrides": {
-    "048968E3-3CB9-46EC-BA4E-0BC90812C23A": "Conocé lo Datos Censales"
+    "048968E3-3CB9-46EC-BA4E-0BC90812C23A": "Conocé más Datos Estadísiticos"
   },
   "resizingConstraint": 63,
   "resizingType": 0,

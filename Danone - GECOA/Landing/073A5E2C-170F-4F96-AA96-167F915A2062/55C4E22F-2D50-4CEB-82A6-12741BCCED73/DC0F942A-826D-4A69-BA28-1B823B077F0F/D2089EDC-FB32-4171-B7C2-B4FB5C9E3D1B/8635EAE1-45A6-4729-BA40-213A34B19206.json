@@ -15,7 +15,7 @@
     "constrainProportions": false,
     "height": 162,
     "width": 205,
-    "x": 471,
+    "x": 0,
     "y": 0
   },
   "horizontalSpacing": 0,
@@ -28,8 +28,8 @@
   "masterInfluenceEdgeMaxYPadding": 1,
   "masterInfluenceEdgeMinXPadding": 1,
   "masterInfluenceEdgeMinYPadding": 0,
-  "name": "Content/Landing/CTAs",
-  "nameIsFixed": false,
+  "name": "Normativa",
+  "nameIsFixed": true,
   "originalObjectID": "5A4BCF21-400E-4C04-8D62-95EF4987783F",
   "overrides": {
     "0AF79A2F-884A-476C-89FC-D4A691D18EAD": {

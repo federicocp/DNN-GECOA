@@ -61,7 +61,7 @@
       "ids": "[{\"id\":\"539951132\",\"layerId\":\"9270A9FC-9B86-462B-AB4F-0939B7B18B9D\"},{\"id\":\"530762832\",\"layerId\":\"52B07B62-8880-4F76-A985-F7A5CDC70F27\"}]"
     },
     "com.invisionlabs.sync": {
-      "metadata": "{\"hasSynced\":0,\"hasProjectIdChanged\":0,\"projectId\":11657410,\"publicLink\":\"\",\"resolution\":2,\"syncAll\":false}"
+      "metadata": "{\"hasSynced\":0,\"hasProjectIdChanged\":0,\"projectId\":11657410,\"publicLink\":\"\",\"resolution\":2,\"syncAll\":true}"
     },
     "com.lingoapp.lingo": {
       "first_version": 79,
