@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 148,
+  "changeIdentifier": 167,
   "do_objectID": "58BB1B65-7DDE-47A4-B6D2-E2C80EBBA15E",
   "exportOptions": {
     "_class": "exportOptions",
@@ -66,6 +66,7 @@
   ],
   "name": "Content/Estadisticas/Indicadores",
   "nameIsFixed": false,
+  "originalObjectID": "58BB1B65-7DDE-47A4-B6D2-E2C80EBBA15E",
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

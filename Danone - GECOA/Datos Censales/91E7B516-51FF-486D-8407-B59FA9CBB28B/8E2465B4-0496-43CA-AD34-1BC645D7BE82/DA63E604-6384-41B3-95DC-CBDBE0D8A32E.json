@@ -30,6 +30,7 @@
   "masterInfluenceEdgeMinYPadding": 0,
   "name": "Content/Estadisticas/Indicadores",
   "nameIsFixed": false,
+  "originalObjectID": "58BB1B65-7DDE-47A4-B6D2-E2C80EBBA15E",
   "overrides": {
     "87CB51C8-1EC4-4F95-B5C1-D1A8F60627D2": {
       "symbolID": "94BF2B6E-D6D5-484F-8DF6-05863CE9A3AD"

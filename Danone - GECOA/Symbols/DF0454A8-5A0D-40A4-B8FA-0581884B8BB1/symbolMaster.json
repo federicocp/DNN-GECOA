@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 21,
+  "changeIdentifier": 24,
   "do_objectID": "DF0454A8-5A0D-40A4-B8FA-0581884B8BB1",
   "exportOptions": {
     "_class": "exportOptions",
@@ -27,7 +27,7 @@
     "y": -1132
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -54,6 +54,7 @@
   ],
   "name": "Content/Misc/Warning",
   "nameIsFixed": false,
+  "originalObjectID": "DF0454A8-5A0D-40A4-B8FA-0581884B8BB1",
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
